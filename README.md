@@ -19,6 +19,7 @@ communication skills in English.</p></b>
       <li>Web client that can communicate with an REST API: https://github.com/mihneablotiu/WEB-Application</li>
       <li>The implementation of a client-server application that allows you to mange messages: https://github.com/mihneablotiu/Client---Server-application</li>
     </ul>
+  <br>
   </li>
   <li>Java language projects
     <ul style="list-style-type:square;">
@@ -29,6 +30,7 @@ communication skills in English.</p></b>
     </ul>
   </li>
   
+  <br>
   <li>Functional & Logical programming projects (Racket / Haskell / Prolog)
     <ul style="list-style-type:square;">
       <li>Primitive Pythagorean triplets generator: https://github.com/mihneablotiu/PPT</li>
@@ -37,6 +39,25 @@ communication skills in English.</p></b>
     </ul>
   </li>
   
+  <br>
+  
+  <li>Research projects
+    <ul style="list-style-type:square;">
+      <li>A wide explanation of the travelling salesman problem including two exact solutions and two heuristics for approximate solutions: https://github.com/mihneablotiu/TravellingSalesmanProblem<li>
+      <li>Realization of the logical synthesis of the control unit of a device: https://github.com/mihneablotiu/Pomp-Indiv</li>
+      <li>Design of a control device using a microprogrammed control unit: https://github.com/mihneablotiu/Pomp-Grup</li>
+      <li>A wide comparison between the two digital circuits: 74LS00 and 74HC00: https://github.com/mihneablotiu/DigitalCircuitAnalysis</li>
+    </ul>
+  </li>
+  
+  <br>
+  <li>MATLAB projects
+    <ul style="list-style-type:square;">
+      <li>Image-Interpolation-Editor(bilinear, bicubic, nearest - neighbour): https://github.com/mihneablotiu/Image-Interpolation-Editor</li>
+    </ul>
+  </li>
+  
+  <br>
   <li>Assembly language projects
     <ul style="list-style-type:square;">
       <li>Assembly32bit-64bit: https://github.com/mihneablotiu/Assembly32bit-64bit<li>
