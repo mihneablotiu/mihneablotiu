@@ -66,9 +66,9 @@ communication skills in English.</p></b>
   </li>
 </ul>
 
-<p align="center"><a href="https://www.facebook.com/blotiu.mihnea/" style="margin:50px"><img style="width:5%" src="https://raw.githubusercontent.com/mihneablotiu/mihneablotiu/d9c454ed8dc3ded6476ddab1cb1a992019f3d858/facebook.svg"/></a>
-<a href="https://www.instagram.com/mihneablotiu/" style="margin:50px"><img style="width:5%" src="https://raw.githubusercontent.com/mihneablotiu/mihneablotiu/d9c454ed8dc3ded6476ddab1cb1a992019f3d858/instagram.svg"/></a>
-<a href="https://www.linkedin.com/in/mihnea-andrei-blotiu/" style="margin:50px"><img style="width:5%" src="https://raw.githubusercontent.com/mihneablotiu/mihneablotiu/d9c454ed8dc3ded6476ddab1cb1a992019f3d858/linkedin.svg"/></a></p>
+<p align="center"><a href="https://www.facebook.com/blotiu.mihnea/" target="_blank" style="margin:50px"><img style="width:5%" src="https://raw.githubusercontent.com/mihneablotiu/mihneablotiu/d9c454ed8dc3ded6476ddab1cb1a992019f3d858/facebook.svg"/></a>
+<a href="https://www.instagram.com/mihneablotiu/" target="_blank" style="margin:50px"><img style="width:5%" src="https://raw.githubusercontent.com/mihneablotiu/mihneablotiu/d9c454ed8dc3ded6476ddab1cb1a992019f3d858/instagram.svg"/></a>
+<a href="https://www.linkedin.com/in/mihnea-andrei-blotiu/" target="_blank" style="margin:50px"><img style="width:5%" src="https://raw.githubusercontent.com/mihneablotiu/mihneablotiu/d9c454ed8dc3ded6476ddab1cb1a992019f3d858/linkedin.svg"/></a></p>
 
 <!--
 **mihneablotiu/mihneablotiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
