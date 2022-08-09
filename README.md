@@ -1,4 +1,4 @@
-<img style="margin:auto" align="center" src="https://github.com/mihneablotiu/mihneablotiu/blob/main/Profile%20Logo.png?raw=true" width="80%" height="70%" />
+<img style="padding-left:20px" align="center" src="https://github.com/mihneablotiu/mihneablotiu/blob/main/Profile%20Logo.png?raw=true" width="80%" height="70%" />
 
 <!--
 **mihneablotiu/mihneablotiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
