@@ -1,9 +1,7 @@
 <p align="center"><img align="center" style="display:block; margin-left:auto; margin-right:auto; width:30%; left:25%" src="https://github.com/mihneablotiu/mihneablotiu/blob/main/Profile%20Logo.png?raw=true"/></p>
 
 
-<b><p align="center">A determined, hard-working and detail-oriented third year Computer Science student with good associate programming hard-skills in C,
-Java, Assembly, HTML, CSS, JavaScript, Racket, Haskell and Prolog. Upstanding network knowledge such as routing, switching and security technologies, intermediate
-UNIX/Linux operating system knowledge and understanding of TCP/IP, excellent team player, strong problem-solving abilities and excellent
+<b><p align="center">A determined, hard-working and detail-oriented third year Computer Science student and Hackademy Curriculum Leader with good associate programming hard-skills in C, Java, Assembly, HTML, CSS, JavaScript, Racket, Haskell and Prolog. Upstanding network knowledge such as routing, switching and security technologies, intermediate UNIX/Linux operating system knowledge and understanding of TCP/IP, excellent team player, strong problem-solving abilities and excellent
 communication skills in English.</p></b>
 
 <br>
