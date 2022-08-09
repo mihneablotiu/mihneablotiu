@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="center" src="https://github.com/mihneablotiu/mihneablotiu/blob/main/Profile%20Logo.png?raw=true" height="100" />
+
 <!--
 **mihneablotiu/mihneablotiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
