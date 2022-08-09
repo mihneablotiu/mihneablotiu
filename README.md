@@ -38,6 +38,13 @@ communication skills in English.</p></b>
   </li>
   
   <br>
+  <li>Web projects
+    <ul style="list-style-type:square;">
+      <li>A simple designed website for the AcadNet Olympics: https://github.com/mihneablotiu/AcadNet-Website</li>
+    </ul>
+  </li>
+  
+  <br>
   
   <li>Research projects
     <ul style="list-style-type:square;">
