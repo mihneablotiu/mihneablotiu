@@ -9,7 +9,7 @@
   
 </style>
 
-<img class="center" src="https://github.com/mihneablotiu/mihneablotiu/blob/main/Profile%20Logo.png?raw=true"/>
+<img style="display:block; margin-left:auto; margin-right:auto; width:50%" src="https://github.com/mihneablotiu/mihneablotiu/blob/main/Profile%20Logo.png?raw=true"/>
 
 <!--
 **mihneablotiu/mihneablotiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
