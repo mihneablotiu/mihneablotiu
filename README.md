@@ -43,7 +43,7 @@ communication skills in English.</p></b>
   
   <li>Research projects
     <ul style="list-style-type:square;">
-      <li>A wide explanation of the travelling salesman problem including two exact solutions and two heuristics for approximate solutions: https://github.com/mihneablotiu/TravellingSalesmanProblem<li>
+      <li>A wide explanation of the travelling salesman problem including two exact solutions and two heuristics for approximate solutions:https://github.com/mihneablotiu/TravellingSalesmanProblem</li>
       <li>Realization of the logical synthesis of the control unit of a device: https://github.com/mihneablotiu/Pomp-Indiv</li>
       <li>Design of a control device using a microprogrammed control unit: https://github.com/mihneablotiu/Pomp-Grup</li>
       <li>A wide comparison between the two digital circuits: 74LS00 and 74HC00: https://github.com/mihneablotiu/DigitalCircuitAnalysis</li>
@@ -60,7 +60,7 @@ communication skills in English.</p></b>
   <br>
   <li>Assembly language projects
     <ul style="list-style-type:square;">
-      <li>Assembly32bit-64bit: https://github.com/mihneablotiu/Assembly32bit-64bit<li>
+      <li>Assembly32bit-64bit: https://github.com/mihneablotiu/Assembly32bit-64bit</li>
       <li>AssemblyCacheSimulation: https://github.com/mihneablotiu/AssemblyCacheSimulation</li>
     </ul>
   </li>
