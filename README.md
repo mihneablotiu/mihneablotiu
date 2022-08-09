@@ -64,8 +64,6 @@ communication skills in English.</p></b>
       <li>AssemblyCacheSimulation: https://github.com/mihneablotiu/AssemblyCacheSimulation</li>
     </ul>
   </li>
-  
-
 </ul>
 
 <!--
