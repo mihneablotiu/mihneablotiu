@@ -29,6 +29,21 @@ communication skills in English.</p></b>
     </ul>
   </li>
   
+  <li>Functional & Logical programming projects (Racket / Haskell / Prolog)
+    <ul style="list-style-type:square;">
+      <li>Primitive Pythagorean triplets generator: https://github.com/mihneablotiu/PPT</li>
+      <li>Different graph representations such as Standard Graph or Algebraic Graph: https://github.com/mihneablotiu/GraphRepresentations</li>
+      <li>Ultimate Tic-Tac-Toe implementation with representation and simple tactics: https://github.com/mihneablotiu/Ultimate-Tic-Tac-Toe</li>
+    </ul>
+  </li>
+  
+  <li>Assembly language projects
+    <ul style="list-style-type:square;">
+      <li>Assembly32bit-64bit: https://github.com/mihneablotiu/Assembly32bit-64bit<li>
+      <li>AssemblyCacheSimulation: https://github.com/mihneablotiu/AssemblyCacheSimulation</li>
+    </ul>
+  </li>
+  
 
 </ul>
 
