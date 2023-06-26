@@ -30,6 +30,7 @@ communication skills in English.</p></b>
       <li>A simple Android application that can move a ball on the phone screen taking into consideration the accelerometer information: https://github.com/mihneablotiu/MovingBall---AndroidApp</li>
       <li>A parallel Replicated Workers model in Java for Orders and Products: https://github.com/mihneablotiu/Orders-Products</li>
     </ul>
+  <br>
   </li>
 
   <li>OpenGL/Computer Graphics Projects
@@ -38,7 +39,6 @@ communication skills in English.</p></b>
       <li>A Car Race game in OpenGL: https://github.com/mihneablotiu/CarRace</li>
       <li>A Flying Duck game in OpenGL: https://github.com/mihneablotiu/FlyingDuck</li>
     </ul>
-  <br>
   </li>
   
   <br>
