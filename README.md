@@ -30,6 +30,14 @@ communication skills in English.</p></b>
       <li>A parallel Replicated Workers model in Java for Orders and Products: https://github.com/mihneablotiu/Orders-Products</li>
     </ul>
   </li>
+
+  <li>OpenGL/Computer Graphics Projects
+    <ul style="list-style-type:square;">
+      <li>A Night Skiing game in OpenGL: https://github.com/mihneablotiu/NightSkiing</li>
+      <li>A Car Race game in OpenGL: https://github.com/mihneablotiu/CarRace</li>
+      <li>A Flying Duck game in OpenGL: https://github.com/mihneablotiu/FlyingDuck</li>
+    </ul>
+  </li>
   
   <br>
   <li>Functional & Logical programming projects (Racket / Haskell / Prolog)
