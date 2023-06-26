@@ -26,6 +26,7 @@ communication skills in English.</p></b>
       <li>A Java Project that shares gifts to the children based on different criteria: https://github.com/mihneablotiu/SantaClausGifts</li>
       <li>We implemented a Java bot starting from the Halite Java starter package - 2016 project - 4th Place in 2022 Competition: https://github.com/mihneablotiu/HaliteBot---FirstForce</li>
       <li>A simple Android application that can move a ball on the phone screen taking into consideration the accelerometer information: https://github.com/mihneablotiu/MovingBall---AndroidApp</li>
+      <li>A parallel Replicated Workers model in Java for Orders and Products: https://github.com/mihneablotiu/Orders-Products</li>
     </ul>
   </li>
   
