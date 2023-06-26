@@ -21,6 +21,7 @@ communication skills in English.</p></b>
     </ul>
   <br>
   </li>
+  
   <li>Java language projects
     <ul style="list-style-type:square;">
       <li>A Java videos database: https://github.com/mihneablotiu/VideosDatabase</li>
@@ -37,6 +38,7 @@ communication skills in English.</p></b>
       <li>A Car Race game in OpenGL: https://github.com/mihneablotiu/CarRace</li>
       <li>A Flying Duck game in OpenGL: https://github.com/mihneablotiu/FlyingDuck</li>
     </ul>
+  <br>
   </li>
   
   <br>
