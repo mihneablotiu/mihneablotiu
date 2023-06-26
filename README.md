@@ -16,6 +16,7 @@ communication skills in English.</p></b>
       <li>Router data plane implementation: https://github.com/mihneablotiu/Router</li>
       <li>Web client that can communicate with an REST API: https://github.com/mihneablotiu/WEB-Application</li>
       <li>The implementation of a client-server application that allows you to mange messages: https://github.com/mihneablotiu/Client---Server-application</li>
+      <li>A Map-Reduce Pthread implementation: https://github.com/mihneablotiu/Map-Reduce</li>
     </ul>
   <br>
   </li>
