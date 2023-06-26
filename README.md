@@ -49,6 +49,13 @@ communication skills in English.</p></b>
       <li>Ultimate Tic-Tac-Toe implementation with representation and simple tactics: https://github.com/mihneablotiu/Ultimate-Tic-Tac-Toe</li>
     </ul>
   </li>
+
+  <br>
+  <li>Embedded Projects
+    <ul style="list-style-type:square;">
+      <li>An Arduino-Based Light Follower Robot: https://github.com/mihneablotiu/LightFollowerRobot</li>
+    </ul>
+  </li>
   
   <br>
   <li>Web projects
