@@ -61,6 +61,13 @@ communication skills in English.</p></b>
   </li>
 
   <br>
+  <li>Python Projects
+    <ul style="list-style-type:square;">
+      <li>A parallel marketplace implementation in Python (producer-consumer problem): https://github.com/mihneablotiu/MarketPlace</li>
+    </ul>
+  </li>
+
+  <br>
   <li>Embedded Projects
     <ul style="list-style-type:square;">
       <li>An Arduino-Based Light Follower Robot: https://github.com/mihneablotiu/LightFollowerRobot</li>
