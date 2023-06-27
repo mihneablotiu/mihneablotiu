@@ -68,6 +68,13 @@ communication skills in English.</p></b>
   </li>
 
   <br>
+  <li>CUDA Projects
+    <ul style="list-style-type:square;">
+      <li>A parallel hashtable implemented in CUDA: https://github.com/mihneablotiu/ParallelHashtable</li>
+    </ul>
+  </li>
+
+  <br>
   <li>Embedded Projects
     <ul style="list-style-type:square;">
       <li>An Arduino-Based Light Follower Robot: https://github.com/mihneablotiu/LightFollowerRobot</li>
