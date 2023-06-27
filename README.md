@@ -8,6 +8,16 @@ communication skills in English.</p></b>
 
 <h2>Personal repositories & projects</h2>
 <ul style="list-style-type:circle;">
+  <li>Operating Systems - C Projects
+    <ul style="list-style-type:square;">
+      <li>A Linux shell implementation in C using fork-join: https://github.com/mihneablotiu/MiniShell</li>
+      <li>A fork-join pool implementation used to traverse a graph: https://github.com/mihneablotiu/ParallelGraph</li>
+      <li>A memory allocator C implementation using mmap/sbrk: https://github.com/mihneablotiu/MemoryAllocator</li>
+      <li>A mini LIBC - C implementation: https://github.com/mihneablotiu/MiniLibC</li>
+    </ul>
+  <br>
+  </li>
+  
   <li>C/C++ language projects
     <ul style="list-style-type:square;">
       <li>NetPBM Image editor: https://github.com/mihneablotiu/ImageEditor</li>
