@@ -28,6 +28,7 @@ communication skills in English.</p></b>
       <li>The implementation of a client-server application that allows you to mange messages: https://github.com/mihneablotiu/Client---Server-application</li>
       <li>A Map-Reduce Pthread implementation: https://github.com/mihneablotiu/Map-Reduce</li>
       <li>MPI - Ring Communication Model: https://github.com/mihneablotiu/MPI</li>
+      <li>A matrix multiply serial implementation with optimizations: https://github.com/mihneablotiu/MatrixMultiply</li>
     </ul>
   <br>
   </li>
