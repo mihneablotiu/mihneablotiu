@@ -1,8 +1,7 @@
 <p align="center"><img align="center" style="display:block; margin-left:auto; margin-right:auto; width:100%; left:25%" src="https://github.com/mihneablotiu/mihneablotiu/blob/main/Adobe_LinkedIn_General-Header_Red-Purple_Orange.png"/></p>
 
 
-<b><p align="center">A determined, hard-working and detail-oriented third year Computer Science Student, Adobe Intern and Hackademy Curriculum Leader with good associate programming hard-skills in C, Java, Assembly, HTML, CSS, JavaScript, Racket, Haskell and Prolog. Upstanding network knowledge such as routing, switching and security technologies, advanced UNIX/Linux operating system knowledge and understanding of the TCP/IP stack, excellent team player, strong problem-solving abilities and excellent
-communication skills in English.</p></b>
+<b><p align="center"> determined, hard-working and detail-oriented fourth year Computer Science and Engineering Student and Adobe Software Engineer with good associate programming hard-skills in C, Java, Assembly x86, HTML, CSS, JavaScript, React.js, Redux, Racket, Haskell and Prolog. Outstanding network knowledge such as routing, switching and security technologies and advanced UNIX/Linux operating system knowledge, excellent team player, strong problem-solving abilities and excellent communication skills in English.</p></b>
 
 <br>
 
