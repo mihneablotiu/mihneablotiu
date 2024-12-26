@@ -47,6 +47,7 @@
 
   <li>Compilers - for Cool Language implemented in Java language
     <ul style="list-style-type:square;">
+      <li>Some Problems solved in Cool language: https://github.com/mihneablotiu/CoolLanguage</li>
       <li>A lexical and syntactic analysis for the Cool language implemented in Java language: https://github.com/mihneablotiu/Compilers-Lexical-And-Syntactic-Analysis</li>
       <li>A semantic analysis for the Cool language implemented in Java language: https://github.com/mihneablotiu/Compilers-Semantic-Analysis</li>
       <li>MIPS Assembly Code Generation from Cool project: https://github.com/mihneablotiu/Compilers-CodeGeneration</li>
