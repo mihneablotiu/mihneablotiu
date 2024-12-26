@@ -28,6 +28,8 @@
       <li>A Map-Reduce Pthread implementation: https://github.com/mihneablotiu/Map-Reduce</li>
       <li>MPI - Ring Communication Model: https://github.com/mihneablotiu/MPI</li>
       <li>A matrix multiply serial implementation with optimizations: https://github.com/mihneablotiu/MatrixMultiply</li>
+      <li>Travelling Salesman Problem implemented in serial, pthreads, openMP, MPI, MPI-Pthreads and MPI-OpenMP options: https://github.com/mihneablotiu/ProblemaComisVoiajorului</li>
+      <li>A brute-force parallelization of a Sudoku Solver vs a rule-based approach: https://github.com/mihneablotiu/Sudoku</li>
     </ul>
   <br>
   </li>
