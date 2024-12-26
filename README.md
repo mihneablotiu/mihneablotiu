@@ -45,6 +45,15 @@
   <br>
   </li>
 
+  <li>Compilers - for Cool Language implemented in Java language
+    <ul style="list-style-type:square;">
+      <li>A lexical and syntactic analysis for the Cool language implemented in Java language: https://github.com/mihneablotiu/Compilers-Lexical-And-Syntactic-Analysis</li>
+      <li>A semantic analysis for the Cool language implemented in Java language: https://github.com/mihneablotiu/Compilers-Semantic-Analysis</li>
+      <li>MIPS Assembly Code Generation from Cool project: https://github.com/mihneablotiu/Compilers-CodeGeneration</li>
+    </ul>
+  <br>
+  </li>
+
   <li>OpenGL/Computer Graphics Projects
     <ul style="list-style-type:square;">
       <li>A Night Skiing game in OpenGL: https://github.com/mihneablotiu/NightSkiing</li>
