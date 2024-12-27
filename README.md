@@ -119,6 +119,7 @@
   <li>MATLAB projects
     <ul style="list-style-type:square;">
       <li>Image-Interpolation-Editor(bilinear, bicubic, nearest - neighbour): https://github.com/mihneablotiu/Image-Interpolation-Editor</li>
+      <li>An electrotechnics project using MATLAB: https://github.com/mihneablotiu/ProiectELTH</li>
     </ul>
   </li>
   
