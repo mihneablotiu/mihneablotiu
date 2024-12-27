@@ -94,11 +94,12 @@
   </li>
   
   <br>
-  <li>Web projects
+  <li>Web projects + Microservices (Docker + Docker Swarm)
     <ul style="list-style-type:square;">
       <li>A simple designed website for the AcadNet Olympics: https://github.com/mihneablotiu/AcadNet-Website</li>
       <li>A React Frontend for a ToDo List App: https://github.com/mihneablotiu/Pweb-Frontend</li>
       <li>A Java Backend for a ToDo List App: https://github.com/mihneablotiu/Pweb-Backend</li>
+      <li>A 3 microservices project + Configs repo for a ToDoList App backend with monitoring (Prometheus + Grafana) and API Gateway (Kong): https://github.com/orgs/Kitzbuhel/repositories</li>
     </ul>
   </li>
   
