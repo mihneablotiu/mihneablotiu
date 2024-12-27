@@ -129,6 +129,14 @@
       <li>AssemblyCacheSimulation: https://github.com/mihneablotiu/AssemblyCacheSimulation</li>
     </ul>
   </li>
+
+  <br>
+  <li>Capture the flag security assignments
+    <ul style="list-style-type:square;">
+      <li>CTF Writeups for Computer Network Security Assignment 1: https://github.com/mihneablotiu/ComputerNetworkSecurity_CTF1</li>
+      <li>CTF Writeups for Computer Network Security Assignment 2: https://github.com/mihneablotiu/ComputerNetworkSecurity_CTF2</li>
+    </ul>
+  </li>
 </ul>
 
 <p align="center"><a href="https://www.facebook.com/blotiu.mihnea/" target="_blank" style="margin:50px"><img style="width:5%" src="https://raw.githubusercontent.com/mihneablotiu/mihneablotiu/d9c454ed8dc3ded6476ddab1cb1a992019f3d858/facebook.svg"/></a>
