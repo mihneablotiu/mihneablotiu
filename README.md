@@ -97,6 +97,8 @@
   <li>Web projects
     <ul style="list-style-type:square;">
       <li>A simple designed website for the AcadNet Olympics: https://github.com/mihneablotiu/AcadNet-Website</li>
+      <li>A React Frontend for a ToDo List App: https://github.com/mihneablotiu/Pweb-Frontend</li>
+      <li>A Java Backend for a ToDo List App: https://github.com/mihneablotiu/Pweb-Backend</li>
     </ul>
   </li>
   
