@@ -112,6 +112,7 @@
       <li>Realization of the logical synthesis of the control unit of a device: https://github.com/mihneablotiu/Pomp-Indiv</li>
       <li>Design of a control device using a microprogrammed control unit: https://github.com/mihneablotiu/Pomp-Grup</li>
       <li>A wide comparison between the two digital circuits: 74LS00 and 74HC00: https://github.com/mihneablotiu/DigitalCircuitAnalysis</li>
+      <li>An analogic electrical project: https://github.com/mihneablotiu/ProjectEEA</li>
     </ul>
   </li>
   
