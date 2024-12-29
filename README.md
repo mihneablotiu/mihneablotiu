@@ -69,6 +69,7 @@
       <li>Primitive Pythagorean triplets generator: https://github.com/mihneablotiu/PPT</li>
       <li>Different graph representations such as Standard Graph or Algebraic Graph: https://github.com/mihneablotiu/GraphRepresentations</li>
       <li>Ultimate Tic-Tac-Toe implementation with representation and simple tactics: https://github.com/mihneablotiu/Ultimate-Tic-Tac-Toe</li>
+      <li>A Lambda Language Interpreter in Haskell containing Parser, Evaluation and Type Inference: https://github.com/mihneablotiu/Lambda-Language-Interpreter</li>
     </ul>
   </li>
 
