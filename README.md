@@ -138,6 +138,7 @@
     <ul style="list-style-type:square;">
       <li>CTF Writeups for Computer Network Security Assignment 1: https://github.com/mihneablotiu/ComputerNetworkSecurity_CTF1</li>
       <li>CTF Writeups for Computer Network Security Assignment 2: https://github.com/mihneablotiu/ComputerNetworkSecurity_CTF2</li>
+      <li>CTF Writeups for Computer Network Security Assignment 3: https://github.com/mihneablotiu/ComputerNetworkSecurity_CTF3</li>
     </ul>
   </li>
 </ul>
